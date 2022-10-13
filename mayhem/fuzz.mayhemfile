@@ -1,0 +1,4 @@
+project: go-cid
+target: fuzz
+cmds:
+- cmd: /out/fuzz
