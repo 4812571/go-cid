@@ -1,4 +1,5 @@
 project: go-cid
 target: fuzz
+testsuite: file://fuzz-data/corpus
 cmds:
 - cmd: /out/fuzz
